@@ -110,7 +110,7 @@ export const PROJECTS: Project[] = [
   },
   {
     id: "pdf-chatbot",
-    index: "04",
+    index: "05",
     title: "AI PDF Chatbot (RAG)",
     description:
         "An AI-powered document question-answering platform that enables users to upload PDF documents and interact with them using natural language. Built using Retrieval-Augmented Generation (RAG), the application extracts, embeds, and stores document chunks in a vector database to provide accurate, context-aware responses.",
