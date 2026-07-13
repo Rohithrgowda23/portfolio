@@ -108,4 +108,38 @@ export const PROJECTS: Project[] = [
     caseStudy: "https://github.com/Rohithrgowda23/E-commerce-/blob/main/README.md",
     accent: "primary",
   },
+  {
+    id: "pdf-chatbot",
+    index: "04",
+    title: "AI PDF Chatbot (RAG)",
+    description:
+        "An AI-powered document question-answering platform that enables users to upload PDF documents and interact with them using natural language. Built using Retrieval-Augmented Generation (RAG), the application extracts, embeds, and stores document chunks in a vector database to provide accurate, context-aware responses.",
+    tech: [
+      "Java",
+      "Spring Boot",
+      "Spring AI",
+      "OpenAI API",
+      "React",
+      "MySQL",
+      "Ollama (LLM)",
+      "Qdrant (Vector DB)",
+      "Docker",
+      "JWT",
+      "REST API"
+    ],
+    features: [
+      "Secure JWT authentication",
+      "PDF upload and document management",
+      "Automatic text extraction and chunking",
+      "Vector embeddings using OpenAI",
+      "Semantic search with Qdrant",
+      "Context-aware AI responses (RAG)",
+      "Conversation history",
+      "Dockerized deployment"
+    ],
+    github: "https://github.com/Rohithrgowda23/Pdf_chatbot",
+    demo: "",
+    caseStudy: "https://github.com/Rohithrgowda23/Pdf_chatbot/edit/main/README.md",
+    accent: "primary",
+  },
 ];
