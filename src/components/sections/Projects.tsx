@@ -121,7 +121,7 @@ export default function Projects() {
       <div className="max-w-7xl mx-auto px-6 md:px-10">
         <SectionHeading
             eyebrow="Selected Work"
-            title="Four products, designed and built end to end."
+            title="Five products, designed and built end to end."
             description="From authentication and real-time communication to AI-powered analysis and e-commerce solutions."
         />
 
