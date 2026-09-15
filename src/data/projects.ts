@@ -21,13 +21,13 @@ export const PROJECTS: Project[] = [
     tech: [
       "Java",
       "Spring Boot AI",
-      "Spring Security",
-      "JWT",
+      "Spring Security(JWT, OAuth 2.0)",
       "React",
       "Docker",
       "Google OAuth",
       "LLMs",
       "Prompt Engineering",
+      "Microservice"
     ],
     features: [
       "ATS compatibility score",
@@ -35,9 +35,9 @@ export const PROJECTS: Project[] = [
       "Secure OAuth authentication",
       "Skill gap analysis",
     ],
-    github: "https://github.com/Rohithrgowda23/resumefrontend",
+    github: "https://github.com/Rohithrgowda23/AI-Resume-Analyzer",
     demo: "https://resumefrontend-ten.vercel.app/",
-    caseStudy: "https://github.com/Rohithrgowda23/resumefrontend/blob/main/README.md",
+    caseStudy: "https://github.com/Rohithrgowda23/AI-Resume-Analyzer/blob/main/README.md",
     accent: "primary",
   },
   {
@@ -91,11 +91,13 @@ export const PROJECTS: Project[] = [
     tech: [
       "Java",
       "Spring Boot",
-      "Spring Security",
+      "Spring Security(JWT, OAuth 2.0)",
       "React",
       "MySQL",
       "REST API",
-      "Tailwind CSS"
+      "Tailwind CSS",
+      "Apache Kafka",
+      "Redis"
     ],
     features: [
       "User registration and login",
@@ -103,9 +105,9 @@ export const PROJECTS: Project[] = [
       "Shopping cart and checkout",
       "Admin product management"
     ],
-    github: "https://github.com/Rohithrgowda23/E-commerce-",
+    github: "https://github.com/Rohithrgowda23/E-commerceshopsphere",
     demo: "",
-    caseStudy: "https://github.com/Rohithrgowda23/E-commerce-/blob/main/README.md",
+    caseStudy: "https://github.com/Rohithrgowda23/E-commerceshopsphere/blob/main/README.md",
     accent: "primary",
   },
   {

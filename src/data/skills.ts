@@ -13,12 +13,13 @@ export const SKILL_GROUPS: SkillGroup[] = [
     skills: [
       "Java",
       "Spring Boot",
-      "Spring Security",
+      "Spring Security(JWT, OAuth 2.0)",
       "Hibernate",
       "JPA",
-      "JWT",
+      "JDBC",
       "REST APIs",
       "Microservices",
+      "Servlet"
     ],
   },
   {
@@ -31,7 +32,7 @@ export const SKILL_GROUPS: SkillGroup[] = [
     id: "database",
     title: "Database",
     description: "Modeling & querying data at scale",
-    skills: ["MySQL", "SQL Server"],
+    skills: ["MySQL", "SQL Server", "Redis", "CRUD Operations", "Query Optimization"],
   },
   {
     id: "ai",
@@ -40,19 +41,24 @@ export const SKILL_GROUPS: SkillGroup[] = [
     skills: [
       "LLMs",
       "Spring AI",
-      "OpenAI API",
       "RAG",
       "Prompt Engineering",
       "Embeddings",
-      "Qdrant",
-      "Pinecone",
-      "Chroma",
+      "Semantic Search",
+      "Vector Database",
+      "AI Chatbots"
     ],
   },
   {
-    id: "cloud",
-    title: "Cloud & Tools",
+    id: "Tools",
+    title: "Devops & Tools",
     description: "Shipping and running software",
-    skills: ["AWS", "Docker", "GitHub", "Postman", "Maven", "VS Code"],
+    skills: ["Apache Kafka", "Docker","Git", "GitHub", "Postman", "Maven", "VS Code", "IntelliJ IDEA", "CI/CD"],
+  },
+  {
+    id: "core concepts",
+    title: "concepts",
+    description: "Problem Solving",
+    skills: ["Data Structures & Algorithms", "SDLC", "API Design", "JUnit", "Mockito"],
   },
 ];
