@@ -19,7 +19,8 @@ export const SKILL_GROUPS: SkillGroup[] = [
       "JDBC",
       "REST APIs",
       "Microservices",
-      "Servlet"
+      "Servlet",
+      "Apache Kafka"
     ],
   },
   {
@@ -53,7 +54,7 @@ export const SKILL_GROUPS: SkillGroup[] = [
     id: "Tools",
     title: "Devops & Tools",
     description: "Shipping and running software",
-    skills: ["Apache Kafka", "Docker","Git", "GitHub", "Postman", "Maven", "VS Code", "IntelliJ IDEA", "CI/CD"],
+    skills: ["Docker","Git", "GitHub", "Postman", "Maven", "VS Code", "IntelliJ IDEA", "CI/CD"],
   },
   {
     id: "core concepts",
