@@ -35,9 +35,9 @@ export const PROJECTS: Project[] = [
       "Secure OAuth authentication",
       "Skill gap analysis",
     ],
-    github: "https://github.com/Rohithrgowda23/AI-Resume-Analyzer",
-    demo: "https://resumefrontend-ten.vercel.app/",
-    caseStudy: "https://github.com/Rohithrgowda23/AI-Resume-Analyzer/blob/main/README.md",
+    github: "https://github.com/Rohithrgowda23/Ai-resume-analyser",
+    demo: "https://ai-resume-powered.vercel.app/",
+    caseStudy: "https://github.com/Rohithrgowda23/Ai-resume-analyser/blob/main/README.md",
     accent: "primary",
   },
   {
