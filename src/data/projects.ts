@@ -36,7 +36,7 @@ export const PROJECTS: Project[] = [
       "Skill gap analysis",
     ],
     github: "https://github.com/Rohithrgowda23/Ai-resume-analyser",
-    demo: "https://ai-resume-powered.vercel.app/",
+    demo: "https://ai-powered-teal.vercel.app/",
     caseStudy: "https://github.com/Rohithrgowda23/Ai-resume-analyser/blob/main/README.md",
     accent: "primary",
   },
