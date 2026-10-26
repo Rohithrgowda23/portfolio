@@ -46,16 +46,16 @@ export const PROJECTS: Project[] = [
     title: "Real-Time Chat Application",
     description:
       "A full-duplex messaging platform built on WebSocket and STOMP, supporting live presence, multiple chat rooms, and instant delivery at low latency.",
-    tech: ["Spring Boot", "React", "WebSocket", "STOMP", "SockJS", "MySQL"],
+    tech: ["Spring Boot", "React", "WebSocket", "STOMP", "SockJS", "MySQL", "Ollama Cloud"],
     features: [
       "Real-time messaging",
       "Authentication",
       "Online user presence",
       "Multi-user chat rooms",
     ],
-    github: "https://github.com/Rohithrgowda23/realchat_frontend",
-    demo: "https://realchat-frontend-kohl.vercel.app/",
-    caseStudy: "https://github.com/Rohithrgowda23/realchat_frontend/blob/main/README.md",
+    github: "https://github.com/Rohithrgowda23/Realchatdeploy",
+    demo: "https://realchatdeploy.vercel.app",
+    caseStudy: "https://github.com/Rohithrgowda23/Realchatdeploy/blob/main/README.md",
     accent: "secondary",
   },
   {
